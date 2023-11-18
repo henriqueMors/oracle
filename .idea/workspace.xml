@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="202eb17f-12ce-4da8-8b49-f9c5a1be92a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
