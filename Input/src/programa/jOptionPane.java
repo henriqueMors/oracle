@@ -8,7 +8,8 @@ public class jOptionPane {
         JOptionPane.showMessageDialog(null, "info", "info", 3); // caixa de diálogo
         String nome = JOptionPane.showInputDialog("Informe seu nome:", "Insira o nome aqui"); // caixa para iniciar variável
         
-        System.out.println(nome);
+        JOptionPane.showMessageDialog(null, "esse é seu nome: " + nome, nome, 2);
+        //System.out.println(nome);
         
     }
     
