@@ -1,3 +1,5 @@
+import javax.swing.JOptionPane;
+
 public class Calculator2 {
 
     public double tax = .05;
@@ -7,7 +9,7 @@ public class Calculator2 {
     public void findTotal(){
 
         double total = originalPrice*(tax+tip);
-        System.out.println(total);
+        JOptionPane.showMessageDialog(null, total, null, 1);
         //Calculate an individual's total after tax and tip
         //Print this value
     }
