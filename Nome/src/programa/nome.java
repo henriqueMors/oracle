@@ -8,7 +8,7 @@ public class nome {
 
     public static void customer() {
         String nome = "Jose das Couves";
-        System.out.println(nome);
+        System.out.println(indexOf.nome);
 
     }
 }
