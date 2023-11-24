@@ -6,6 +6,7 @@ public class Calculator {
     }
 
     public double gorjeta = 0.15;
+    public int originalPrice;
     public void printGorjeta() {
         System.out.println(gorjeta);
     }

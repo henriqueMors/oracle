@@ -1,6 +1,16 @@
+import javax.swing.JOptionPane;
+
 public class CalculatorTest2 {
     public static void main(String[] args) { 
         //Instantiate a Calculator2 object
+        Calculator2 calc = new Calculator2();
+        
+        String aux;
+        aux = JOptionPane.showInputDialog(null, "Informe o valor:", 0);
+        double aux = Double.parseDouble(aux);
+        calc.originalPrice = aux;
+        calc.findTotal();
+
         
         
         //Access the Calculator2 object's fields and methods
@@ -19,4 +29,5 @@ public class CalculatorTest2 {
         */
         
     }
+
 }
