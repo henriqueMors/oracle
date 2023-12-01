@@ -17,5 +17,7 @@ public class SumofNums {
             }
         while (number != -1);
             System.out.println("The sum is " + sum);
+
+            console.close();
     }
 }
