@@ -5,7 +5,8 @@ public class PrisonTest {
     public double altura;
     public int sentenca;
 
-    public void think() {
-        System.out.println("olá");
+        public void think() {
+        System
+        
     }
 }
